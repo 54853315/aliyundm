@@ -1,5 +1,5 @@
 {
-    "name": "54853315/aliyundun",
+    "name": "54853315/aliyundm",
     "description": "a aliyun mail push package",
     "type": "package",
     "license": "MIT",
@@ -9,6 +9,7 @@
             "email": "iloveav@vip.qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5"
     },
