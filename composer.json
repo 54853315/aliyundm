@@ -1,0 +1,21 @@
+{
+    "name": "54853315/aliyundm",
+    "description": "a aliyun mail push package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aliyundm",
+            "email": "iloveav@vip.qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rainwsy\\Aliyunmail\\": "src"
+        }
+    }
+}
